@@ -1,1 +1,1 @@
-# COMP6016
+# DATA Mining
